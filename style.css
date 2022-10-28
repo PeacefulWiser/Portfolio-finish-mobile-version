@@ -59,6 +59,7 @@
 .mainp {
   display: inline;
 }
+
 .middot {
   width: 8px;
   height: 8px;
@@ -68,6 +69,7 @@
   flex-grow: 0;
   display: inline;
 }
+
 .back {
   width: 88px;
   height: 16px;
@@ -82,6 +84,7 @@
   flex-grow: 0;
   display: inline;
 }
+
 .year {
   width: 29px;
   height: 16px;
@@ -95,4 +98,34 @@
   order: 0;
   flex-grow: 0;
   display: inline;
+}
+
+.daily {
+  width: 295px;
+  height: 76px;
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 24px;
+  color: #344563;
+  flex: none;
+  order: 1;
+  flex-grow: 0;
+
+}
+
+.item2 {
+  display: flex;
+  flex-direction: row-reverse;
+  align-items: center;
+  padding: 4px 12px;
+  width: 45px;
+  height: 24px;
+  background:  #EBEBFF;;
+  border-radius: 8px;
+  flex: none;
+  order: 1;
+  flex-grow: 0;
+
 }
