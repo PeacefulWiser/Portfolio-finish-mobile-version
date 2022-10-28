@@ -1,14 +1,14 @@
 * {
     box-sizing: border-box;
 }
-.About self cont {
+.About {
     position: absolute;
     width: 375px;
     height: 1463px;
     left: 375px;
     top: 4769px;
     background: #FFFFFF;
-    transform:rotate(-180deg);
+    
   }
 
 .Abouth2 {
@@ -55,11 +55,28 @@
     flex-grow: 0;
 }
 
-ul {
+ul li{
     list-style-type: none;
+    margin-left: -35px;
   }
   
-a :visited {
+  .fonticons {
+    margin-left: 1px;
+}
+
+li i {
+    float: left;
+    color: grey;
+    font-family: 'Poppins', sans-serif;
+    width: 33px;
+    height: 30px;
+    padding: 1px;
+    margin-top: 2px;
+    margin-left: 1px;
+    
+  }
+
+  a :visited {
     color: red;
   }
   
@@ -89,21 +106,6 @@ button:active {
   
 .button :hover {
     color: pink;
-  }
-
-.fonticons {
-    position: relative;
-}
-
-li i {
-    float: left;
-    color: grey;
-    font-family: 'Poppins', sans-serif;
-    width: 53px;
-    height: 30px;
-    padding: 1px;
-    margin-top: 2px;
-    margin-left: 5px;
   }
 
 .get {
@@ -197,6 +199,7 @@ font-style: normal;
 font-weight: 500;
 font-size: 15px;
 line-height: 20px;
+margin-left: 15px;
 display: flex;
 align-items: center;
 color: #253858;
@@ -212,6 +215,7 @@ color: #253858;
     font-weight: 500;
     font-size: 15px;
     line-height: 20px;
+    margin-left: 15px;
     display: flex;
     align-items: center;
     color: #253858;
@@ -226,6 +230,7 @@ color: #253858;
     font-style: normal;
     font-weight: 500;
     font-size: 15px;
+    margin-left: 15px;
     line-height: 20px;
     display: flex;
     align-items: center;
@@ -238,13 +243,23 @@ color: #253858;
 }
 
 hr {
-    width: 300px;
-    margin-left: 10px;
+    width: 327px;
+    margin-left: -5px;
 }
 
-.
+.Frame i {
+-ms-transform: rotate(270deg);
+  transform: rotate(270deg);
+  margin-left: 130px;
+  color: grey;
+}
     
-        
+.Skills i {
+-ms-transform: rotate(270deg);
+transform: rotate(270deg);
+margin-left: 205px;
+color: grey;
+}
         
 
   
