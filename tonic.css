@@ -261,4 +261,14 @@
   flex-grow: 0;
 }
 
+a :visited {
+  color: red;
+}
 
+a :hover {
+  color: greenyellow;
+}
+
+a :active {
+  color: orange;
+}
