@@ -18,3 +18,26 @@
   flex-grow: 0;
 }
 
+.item1 img {
+ width: 295px;
+ height: 220px;
+ border-radius: 8px;
+ flex: 0;
+ order: 0;
+ flex-grow: 0;
+}
+
+.tonic {
+  width: 295px;
+  height: 36px;
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 32px;
+  line-height: 44px;
+  color: #172B4D;
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+}
+
