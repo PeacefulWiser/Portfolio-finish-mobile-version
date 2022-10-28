@@ -1,3 +1,21 @@
 * {
     box-sizing: border-box;
 }
+
+.contmultipost {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 16px;
+    gap: 12px;
+    left: 24px;
+    width: 327px;
+    height: 596px;
+    background: #ffffff;
+    border: 1px solid #dfe1e6;
+    border-radius: 16px;
+    flex: none;
+    order: 3;
+    flex-grow: 0;
+
+}
