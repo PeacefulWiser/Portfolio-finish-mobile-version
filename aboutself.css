@@ -7,3 +7,37 @@
     background: #FFFFFF;
     transform:rotate(-180deg);
   }
+
+  .Abouth2 {
+    width: 327px;
+    height: 101px;
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 52px;
+    display: flex;
+    align-items: center;
+    color: #172B4D;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+  }
+
+  .Hello {
+    width: 327px;
+    height: 144px;
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    align-items:center;
+    color: #344563;
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+  }
+
+  
+  
