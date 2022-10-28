@@ -4,7 +4,7 @@
 .About self cont {
     position: absolute;
     width: 375px;
-    height: 1263px;
+    height: 1463px;
     left: 375px;
     top: 4769px;
     background: #FFFFFF;
@@ -236,6 +236,13 @@ color: #253858;
     margin-left: 150px;
     color: grey;
 }
+
+hr {
+    width: 300px;
+    margin-left: 10px;
+}
+
+.
     
         
         
