@@ -1,0 +1,9 @@
+.About self cont {
+    position: absolute;
+    width: 375px;
+    height: 1263px;
+    left: 375px;
+    top: 4769px;
+    background: #FFFFFF;
+    transform:rotate(-180deg);
+  }
