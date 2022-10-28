@@ -173,6 +173,20 @@ li i {
     margin-top: 80px;
 }
 
+.griditem2 {
+    background-color: #F7F7F9;
+    width: 303px;
+    height: 66.72;
+    margin-top: 10px;
+}
+
+.griditem3 {
+    background-color: #F7F7F9;
+    width: 303px;
+    height: 66.72;
+    margin-top: 10px;
+}
+
 .griditem1 img {
     width: 48px;
 }
@@ -187,5 +201,38 @@ display: flex;
 align-items: center;
 color: #253858;
 }
+
+.griditem2 img{
+    width: 48px;
+}
+
+.HTML {
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 20px;
+    display: flex;
+    align-items: center;
+    color: #253858;
+}
+
+.griditem3 img {
+    width: 48px;
+}
+
+.CSS {
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 20px;
+    display: flex;
+    align-items: center;
+    color: #253858;
+}
+    
+        
+        
 
   
