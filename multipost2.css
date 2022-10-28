@@ -1,58 +1,55 @@
 * {
     box-sizing: border-box;
-  }
-  
-  .container {
+}
+
+.contmultipost {
     display: flex;
     flex-direction: column;
     align-items: center;
     padding: 16px;
     gap: 12px;
     left: 24px;
+    top: 2078px;
     width: 327px;
-    height: 700px;
+    height: 596px;
     background: #ffffff;
     border: 1px solid #dfe1e6;
     border-radius: 16px;
     flex: none;
-    order: 0;
+    order: 3;
     flex-grow: 0;
+}
+
+.post img {
+  width: 295px;
+  height: 220px;
+  border-radius: 8px;
+  flex: 0;
+  order: 0;
+  flex-grow: 0;
   }
-  
-  .item1 img {
+
+  .mps {
     width: 295px;
-    height: 220px;
-    border-radius: 8px;
-    margin-left: 5px;
-    flex: 0;
-    order: 0;
-    flex-grow: 0;
-  }
-  
-  .tonic {
-    width: 295px;
-    height: 6px;
+    height: 80px;
     font-family: 'Poppins', sans-serif;
     font-style: normal;
     font-weight: 700;
     font-size: 32px;
     line-height: 44px;
-    color: #172b4d;
+    color: #172B4D;
     flex: none;
     order: 0;
     flex-grow: 0;
+    margin-top: -20px;
   }
-  
-  .ton {
-    margin-left: 6px;
-  }
-  
+
   .canopy {
     width: 55px;
     height: 16px;
     font-family: 'Poppins', sans-serif;
     font-style: normal;
-    margin-left: 6px;
+    margin-left: -96px;
     font-weight: 600;
     font-size: 13px;
     line-height: 16px;
@@ -65,10 +62,11 @@
   
   .mainp {
     display: inline;
+    
   }
   
   .sec {
-    margin-top: 60px;
+    margin-top: -15px;
   }
   
   .back {
@@ -116,7 +114,8 @@
   }
   
   .day {
-    margin-left: 6px;
+    margin-left: 4px;
+    margin-top: -30px;;
   }
   
   .container2 {
@@ -131,8 +130,8 @@
     flex: none;
     order: 0;
     flex-grow: 0;
-    margin-left: -35px;
-  }
+    margin-left: -118px;
+    }
   
   .container2 a {
     width: 29px;
@@ -225,6 +224,10 @@
   .maincon li{
     display: inline-flex;
     }
+    .maincon ul{
+        margin-top: -15px;
+
+    }
   
   .see {
     display: flex;
@@ -234,8 +237,8 @@
     gap: 12px;
     width: 127px;
     height: 54px;
-    margin-left: 6px;
-    margin-top: 30px;
+    margin-left: -160px;
+    margin-top: 0px;
     background: ffffff;
     border: 1px solid #dfe1e6;
     border-radius: 16px;
@@ -260,34 +263,15 @@
     order: 0;
     flex-grow: 0;
   }
-  
+
   a :visited {
-    color: purple;
+    color: red;
   }
 
   a :hover {
-    color: red;
+    color: greenyellow;
   }
   
-  a :active {
+a :active {
     color: orange;
   }
-  
-button:hover {
-    color: rgb(241, 8, 86);
-  }
-  
-button:disabled {
-    color: maroon;
-  }
-  
-button:active {
-    color: rgb(209, 230, 23);
-  }
-  
-.button :visited {
-    color: #6070ff;
-  }
-  
-
-  
