@@ -106,6 +106,44 @@ li i {
     margin-top: 2px;
     margin-left: 25px;
   }
+
+  .get {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 16px;
+  gap: 12px;
+  width: 150px;
+  height: 54px;
+  margin-left: 6px;
+  margin-top: 70px;
+  background: ffffff;
+  border: 1px solid #dfe1e6;
+  border-radius: 16px;
+  flex: none;
+  top: 144px;
+  order: 0;
+  flex-grow: 0;
+  }
+
+  .get a {
+        width: 138px;
+        height: 24px;
+        font-family: 'Poppins', sans-serif;
+        font-style: normal;
+        font-weight: 500;
+        display: flex;
+        align-items: center;
+        text-align: center;
+        letter-spacing: 0.03em;
+        font-size: 17px;
+        line-height: 24px;
+        color: #396df2;
+        text-decoration: none;
+        flex: none;
+        order: 0;
+        flex-grow: 0;
+      }
   
 
   
