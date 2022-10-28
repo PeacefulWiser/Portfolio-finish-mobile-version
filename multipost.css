@@ -9,6 +9,7 @@
     padding: 16px;
     gap: 12px;
     left: 24px;
+    top: 2078px;
     width: 327px;
     height: 596px;
     background: #ffffff;
@@ -17,5 +18,27 @@
     flex: none;
     order: 3;
     flex-grow: 0;
-
 }
+
+.post img {
+  width: 295px;
+  height: 220px;
+  border-radius: 8px;
+  flex: 0;
+  order: 0;
+  flex-grow: 0;
+  }
+
+  .mps {
+    width: 295px;
+    height: 80px;
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 44px;
+    color: #172B4D;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+  }
