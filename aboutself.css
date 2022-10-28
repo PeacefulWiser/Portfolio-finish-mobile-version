@@ -99,12 +99,11 @@ li i {
     float: left;
     color: grey;
     font-family: 'Poppins', sans-serif;
-    width: 33px;
-    height: 19.96px;
-    top: 470px;
+    width: 53px;
+    height: 30px;
     padding: 1px;
     margin-top: 2px;
-    margin-left: 25px;
+    margin-left: 5px;
   }
 
 .get {
@@ -159,7 +158,34 @@ li i {
     display: flex;
     align-items: center;
     flex-grow: 0;
+}
 
-      }
+.grid {
+    display: grid;
+    grid-template-rows: auto auto auto;
+    row-gap: 5px;
+}
+
+.griditem1 {
+    background-color: #F7F7F9;
+    width: 303px;
+    height: 66.72;
+    margin-top: 80px;
+}
+
+.griditem1 img {
+    width: 48px;
+}
+
+.Script {
+font-family: 'Poppins', sans-serif;
+font-style: normal;
+font-weight: 500;
+font-size: 15px;
+line-height: 20px;
+display: flex;
+align-items: center;
+color: #253858;
+}
 
   
