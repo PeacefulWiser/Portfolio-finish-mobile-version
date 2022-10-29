@@ -11,7 +11,7 @@
   left: 24px;
   width: 327px;
   height: 700px;
-  background: #ffffff;
+  background: #fff;
   border: 1px solid #dfe1e6;
   border-radius: 16px;
   flex: none;
@@ -222,9 +222,9 @@
   flex-grow: 0;
 }
 
-.maincon li{
+.maincon li {
   display: inline-flex;
-  }
+}
 
 .see {
   display: flex;
