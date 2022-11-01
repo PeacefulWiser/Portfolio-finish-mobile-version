@@ -695,6 +695,9 @@ button:active {
   line-height: 87%;
   align-self: center;
   vertical-align: center;
+  flex: none;
+  order: 0;
+  flex-grow: 0;
 }
 
 .app {
@@ -706,6 +709,9 @@ button:active {
   vertical-align: top;
   width: 327px;
   height: 102px;
+  flex: none;
+  order: 0;
+  flex-grow: 0;
 }
 
 .form1 input {
@@ -722,6 +728,9 @@ button:active {
   padding: 15px;
   margin-bottom: 15px;
   border-radius: 8px;
+  flex: none;
+  order: 0;
+  flex-grow: 0;
 }
 
 .fullname {
@@ -740,6 +749,9 @@ textarea {
   font-size: 15px;
   line-height: 24px;
   vertical-align: top;
+  flex: none;
+  order: 0;
+  flex-grow: 0;
 }
 
 .sub {
