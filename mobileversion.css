@@ -672,7 +672,7 @@ button:active {
   gap: 12px;
   left: 24px;
   width: 400px;
-  height: 700px;
+  height: 900px;
   background: #6070ff;
   border: 1px solid #dfe1e6;
   border-radius: 16px;
@@ -682,8 +682,8 @@ button:active {
 }
 
 .contactme {
-  font-family: 'Poppins',sans-serif;
-  color: #ffffff;
+  font-family: 'Poppins', sans-serif;
+  color: #fff;
   font-style: bold;
   font-size: 40px;
   line-height: 52px;
@@ -694,24 +694,49 @@ button:active {
 
 .app {
   font-family: 'Poppins', sans-serif;
-  color: #EBEBFF;
+  color: #ebebff;
   font-style: normal;
   font-size: 20px;
   line-height: 28px;
-  line-height: 93%;
-  align-self: center;
   vertical-align: top;
+  width: 327px;
+  height: 102px;
 }
 
 .form1 input {
   font-family: 'Poppins', sans-serif;
-  color: #EBEBFF;
+  color: #172b4d;
   font-style: normal;
-  font-size: 20px;
-  line-height: 28px;
-  line-height: 93%;
-  align-self: center;
+  font-size: 17px;
+  line-height: 20px;
+  line-height: 78%;
+  align-self: left;
+  vertical-align: center;
+  width:327px;
+  height: 48px;
+  padding: 10px;
+  margin-bottom: 15px;
+  border-radius: 8px;
+}
+
+.fullname {
+  margin-top: 70px;
+}
+
+textarea {
+  width:327px;
+  height: 170px;
+  padding: 10px;
+  margin-top: 3px;
+  border-radius: 8px;
+  font-family: 'Poppins', sans-serif;
+  color: #B3BAC5;
+  font-style: normal;
+  font-size: 15px;
+  line-height: 24px;
   vertical-align: top;
 }
+
+
 
 
