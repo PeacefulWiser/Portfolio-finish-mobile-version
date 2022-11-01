@@ -1,7 +1,7 @@
 
-Project name: Portfolio-finish-mobile-version
+## Project name: Portfolio-finish-mobile-version
 
-Description of the project.
+## Description of the project.
 Portfolio: finish mobile version
 
 For the second milestone in building my portfolio website, I will create a mobile website section where I will list my portfolio projects.
