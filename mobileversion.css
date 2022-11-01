@@ -773,6 +773,10 @@ textarea {
   margin-left: 55px;
 }
 
+.submt:enabled {
+  border-style: 2px dotted blue;
+}
+
 .sbmt:hover {
   background-color: rgb(39, 39, 128);
 }
