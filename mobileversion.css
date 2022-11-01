@@ -673,12 +673,33 @@ button:active {
   left: 24px;
   width: 400px;
   height: 700px;
-  background: #6070FF;
+  background: #6070ff;
   border: 1px solid #dfe1e6;
   border-radius: 16px;
   flex: none;
   order: 0;
   flex-grow: 0;
-  }
+}
 
+.contactme {
+font-family: 'Poppins', sans-serif;
+color: #ffffff;
+font-style: Bold;
+font-size: 40px;
+line-height: 52px;
+line-height: 87%;
+align-self: center;
+vertical-align: center;
+}
+
+.app {
+font-family: 'Poppins', sans-serif;
+color: #EBEBFF;
+font-style: normal;
+font-size: 20px;
+line-height: 28px;
+line-height: 93%;
+align-self: center;
+vertical-align: top;
+}
 
