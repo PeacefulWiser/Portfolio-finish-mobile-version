@@ -762,7 +762,7 @@ textarea {
   margin-top: 13px;
   border-radius: 8px;
   padding: 12px 16px 12px 16px;
-}
+  }
 
 .sbmt {
   font-family: 'Poppins', sans-serif;
@@ -781,3 +781,11 @@ textarea {
 .app span {
   margin-left: 55px;
 }
+
+.sub button:hover {
+  background-color: blue;
+}
+.sbmt {
+  cursor: pointer;
+}
+
