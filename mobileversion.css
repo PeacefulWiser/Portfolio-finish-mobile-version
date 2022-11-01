@@ -712,7 +712,7 @@ button:active {
   line-height: 78%;
   align-self: left;
   vertical-align: center;
-  width:327px;
+  width: 327px;
   height: 48px;
   padding: 10px;
   margin-bottom: 15px;
@@ -724,19 +724,42 @@ button:active {
 }
 
 textarea {
-  width:327px;
+  width: 327px;
   height: 170px;
   padding: 10px;
   margin-top: 3px;
   border-radius: 8px;
   font-family: 'Poppins', sans-serif;
-  color: #B3BAC5;
+  color: #b3bac5;
   font-style: normal;
   font-size: 15px;
   line-height: 24px;
   vertical-align: top;
 }
 
+.sub {
+  background-color: #ffffff;
+  width: 160px;
+  height: 54px;
+  padding: 10px;
+  margin-top: 13px;
+  border-radius: 8px;
+  padding: 12px 16px 12px 16px;
+  }
+
+.sbmt {
+  font-family: 'Poppins', sans-serif;
+  color: #6070ff;
+  font-style: medium;
+  font-size: 17px;
+  line-height: 24px;
+  vertical-align: center;
+  letter-spacing: 1px;
+  width: 140px;
+  margin-left: -10px;
+  background-color: #ffffff;
+  border: none;
+}
 
 
 
