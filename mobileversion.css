@@ -682,24 +682,34 @@ button:active {
 }
 
 .contactme {
-font-family: 'Poppins', sans-serif;
-color: #ffffff;
-font-style: Bold;
-font-size: 40px;
-line-height: 52px;
-line-height: 87%;
-align-self: center;
-vertical-align: center;
+ font-family: 'Poppins',sans-serif;
+ color: #ffffff;
+ font-style: bold;
+ font-size: 40px;
+ line-height: 52px;
+ line-height: 87%;
+ align-self: center;
+ vertical-align: center;
 }
 
 .app {
-font-family: 'Poppins', sans-serif;
-color: #EBEBFF;
-font-style: normal;
-font-size: 20px;
-line-height: 28px;
-line-height: 93%;
-align-self: center;
-vertical-align: top;
+ font-family: 'Poppins', sans-serif;
+ color: #EBEBFF;
+ font-style: normal;
+ font-size: 20px;
+ line-height: 28px;
+ line-height: 93%;
+ align-self: center;
+ vertical-align: top;
 }
 
+.form1 input {
+  font-family: 'Poppins', sans-serif;
+ color: #EBEBFF;
+ font-style: normal;
+ font-size: 20px;
+ line-height: 28px;
+ line-height: 93%;
+ align-self: center;
+ vertical-align: top;
+}
