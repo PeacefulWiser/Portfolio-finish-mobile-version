@@ -356,7 +356,7 @@ ul li {
   height: 54px;
   margin-left: 6px;
   margin-top: 30px;
-  background: ffffff;
+  
   border: 1px solid #dfe1e6;
   border-radius: 16px;
   flex: none;
@@ -490,7 +490,7 @@ ul li {
   height: 54px;
   margin-left: -150px;
   margin-top: -10px;
-  background: ffffff;
+  
   border: 1px solid #dfe1e6;
   border-radius: 16px;
   flex: none;
@@ -543,21 +543,21 @@ ul li {
 .griditem1 {
   background-color: #f7f7f9;
   width: 303px;
-  height: 66.72;
+  height: 66.72px;
   margin-top: 80px;
 }
 
 .griditem2 {
   background-color: #f7f7f9;
   width: 303px;
-  height: 66.72;
+  height: 66.72px;
   margin-top: 10px;
 }
 
 .griditem3 {
   background-color: #f7f7f9;
   width: 303px;
-  height: 66.72;
+  height: 66.72px;
   margin-top: 10px;
 }
 
@@ -685,12 +685,12 @@ button:active {
 .contactme {
   font-family: 'Poppins', sans-serif;
   color: #fff;
-  font-style: bold;
+  font-style: normal;
   font-size: 40px;
   line-height: 52px;
   line-height: 87%;
   align-self: center;
-  vertical-align: center;
+  vertical-align: middle;
   margin-top: 95px;
   flex: none;
   order: 0;
@@ -718,8 +718,8 @@ button:active {
   font-size: 17px;
   line-height: 20px;
   line-height: 78%;
-  align-self: left;
-  vertical-align: center;
+  align-self:flex-start;
+  vertical-align: middle;
   width: 327px;
   height: 58px;
   padding: 15px;
@@ -754,10 +754,10 @@ textarea {
 .sbmt {
   font-family: 'Poppins', sans-serif;
   color: #6070ff;
-  font-style: medium;
+  font-style: normal;
   font-size: 17px;
   line-height: 24px;
-  vertical-align: center;
+  vertical-align: middle;
   border-radius: 8px;
   letter-spacing: 1px;
   width: 160px;
@@ -774,7 +774,7 @@ textarea {
 }
 
 .submt:enabled {
-  border-style: 2px dotted blue;
+  border: 2px dotted blue;
 }
 
 .sbmt:hover {
