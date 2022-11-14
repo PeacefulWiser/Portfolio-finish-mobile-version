@@ -356,7 +356,6 @@ ul li {
   height: 54px;
   margin-left: 6px;
   margin-top: 30px;
-  
   border: 1px solid #dfe1e6;
   border-radius: 16px;
   flex: none;
@@ -490,7 +489,6 @@ ul li {
   height: 54px;
   margin-left: -150px;
   margin-top: -10px;
-  
   border: 1px solid #dfe1e6;
   border-radius: 16px;
   flex: none;
@@ -718,7 +716,7 @@ button:active {
   font-size: 17px;
   line-height: 20px;
   line-height: 78%;
-  align-self:flex-start;
+  align-self: flex-start;
   vertical-align: middle;
   width: 327px;
   height: 58px;
