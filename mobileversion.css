@@ -55,8 +55,8 @@ hr {
     width: 100%;
     text-align: center;
     transition: 0.3s;
-    -webkit-backdrop-filter: blur(4px);
-    backdrop-filter: blur(4px);
+    -webkit-backdrop-filter: blur(7px);
+    backdrop-filter: blur(7px);
   }
 }
 
