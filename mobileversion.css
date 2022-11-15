@@ -61,11 +61,12 @@ hr {
 }
 
 .nav-menu hr {
-  width: 50%;
+  width: 40%;
   border: 2px solid black;
   border-radius: 5px;
   margin-top: 285px;
-  margin-left: 60px;
+  margin-left: 100px;
+  place-items: center;
 }
 
 .hamburger {
